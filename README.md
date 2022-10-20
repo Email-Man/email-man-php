@@ -1,2 +1,4 @@
-# emailMan
-An Email Library for PHP
+# EmailMan
+A fully featured PHP Email Library for sending emails 
+especially via smtp
+
