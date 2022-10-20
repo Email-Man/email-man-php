@@ -14,5 +14,8 @@
             "EmailMan\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^8.5",
+        "symfony/var-dumper": "^5.4"
+    }
 }
