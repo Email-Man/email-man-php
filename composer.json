@@ -2,6 +2,7 @@
     "name": "kurtiz/email-man",
     "description": "A fully featured PHP Email Library for sending emails especially via smtp",
     "type": "library",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
